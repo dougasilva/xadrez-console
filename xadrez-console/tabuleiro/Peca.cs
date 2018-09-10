@@ -15,5 +15,6 @@ namespace tabuleiro
             this.cor = cor;
             this.qtdeMovimentos = 0;
         }
+
     }
 }
